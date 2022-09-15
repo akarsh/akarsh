@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akarsh Seggemu</h1>
-<h3 align="center">A passionate iOS developer</h3>
+<h3 align="center">A passionate Mobile Application Developer and Software Development Kit (SDK) Engineer</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarsh&show_icons=true&locale=en" alt="akarsh" /></p>
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akarsh.github.io](https://akarsh.github.io)
 
-- 💬 Ask me about **Swift, Objective-C, iOS**
+- 💬 Ask me about **Android** (Java, Kotlin), **iOS** (Swift, Objective-C), **Unity** (C#)
 
 - 📫 How to reach me **sakarshkumar@gmail.com**
 
