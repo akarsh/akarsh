@@ -17,17 +17,56 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
--  **Android** (Java, Kotlin) <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40" height="40"/> </a>
--  **Unity** (C#) <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="40" height="40"/></a>
--  **Public Cloud** (Google Cloud Platform) <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="40" height="40"/></a>
--  **Kubernetes** <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="40" height="40"/></a>        
--  **DevOps** (Continuous Integration (CI), Continuous Delivery/Deployment (CD)) <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
--  **iOS** (Swift, Objective-C) <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> 
--  **Node.js** (JavaScript) <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
--  **Web** (HTML, CSS) </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-- **Design** (Photoshop, xd) <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
--  **YAML**
--  **Automation testing**
+<table>
+	<tr>
+		<td>Android (Java, Kotlin) <img
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40"
+				height="40" /> </td>
+		<td>Unity (C#) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"
+				width="40" height="40" /></td>
+	</tr>
+	<tr>
+		<td>Public Cloud (Google Cloud Platform) <img
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"
+				width="40" height="40" /></td>
+		<td>Kubernetes <img
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"
+				width="40" height="40" />
+	</tr>
+	<tr>
+		<td>Continuous Integration (CI), Continuous Delivery/Deployment (CD) <img
+				src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
+			<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40"
+				height="40" />
+		</td>
+		<td>iOS (Swift, Objective-C) <img
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
+				alt="swift" width="40" height="40" /> <img
+				src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
+				width="40" height="40" />
+		</td>
+	</tr>
+	<tr>
+		<td>Node.js (JavaScript) <img
+				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"
+				height="40" />
+		</td>
+		<td>Web (HTML, CSS) <img
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+				alt="html5" width="40" height="40" />
+			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+				alt="css3" width="40" height="40" />
+		</td>
+	</tr>
+	<tr>
+		<td>Design (Photoshop, xd) <img
+				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
+				alt="photoshop" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
+				alt="xd" width="40" height="40" />
+		</td>
+		<td>YAML</td>
+	</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
