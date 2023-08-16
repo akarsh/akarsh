@@ -1,74 +1,46 @@
 <h1 align="left">Hi 👋, I'm Akarsh Seggemu</h1>
-<h3 align="left">A passionate engineering team lead</h3>
+<h3 align="left">A passionate commercial software engineering team lead</h3>
 
-- 🔭 I’m writing articles, tutorials which are available at [https://medium.com/@akarshseggemu](https://medium.com/@akarshseggemu)
+- 🔭 I’m writing articles, tutorials in [https://medium.com/@akarshseggemu](https://medium.com/@akarshseggemu)
 
-- 👨‍💻 Portfolio showcasing my projects are available at [https://akarsh.github.io](https://akarsh.github.io)
+- 👨‍💻 Portfolio in [https://akarsh.github.io](https://akarsh.github.io)
 
-- 💼 Employee GitHub accounts used by me to contribute towards custom commericial softwares,
-  - Current employee GitHub account for stats on contributions,
-    - [aseggemu-yoc](https://github.com/aseggemu-yoc) from 2022 till present
-  - My previous employee GitHub accounts for stats on contributions,
+- 💼 Employment GitHub accounts used by me to contribute towards developing and creating commericial softwares,
+
     - [sagitpanda](https://github.com/sagitpanda) from 2014 till 2015
     - [aseggemu-fyber](https://github.com/aseggemu-fyber) from 2015 till 2021
     - [akarsh-tenjin](https://github.com/akarsh-tenjin) from 2021 till 2022
+    - [aseggemu-yoc](https://github.com/aseggemu-yoc) from 2022 till today
+  
+   **Disclaimer**: The below GitHub accounts are listed here for contribution stats only.
 
-**Disclaimer**: The above employee GitHub accounts are listed here for showcase of my contribution stats only.
 
 <h3 align="left">Languages and Tools:</h3>
 
 <table>
 	<tr>
-		<td>Android (Java, Kotlin) <img
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" width="40"
-				height="40" /> </td>
-		<td>Unity (C#) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg"
-				width="40" height="40" /></td>
+		<td>Android (Java, Kotlin), iOS (Swift, Objective-C), Unity (C#)</td>
+		<td>Design (Photoshop, xd)</td>
 	</tr>
 	<tr>
-		<td>Public Cloud (Google Cloud Platform) <img
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg"
-				width="40" height="40" /></td>
-		<td>Kubernetes <img
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"
-				width="40" height="40" />
+		<td>Public Cloud (Google Cloud Platform), Kubernetes, Helm</td>
+  		<td> Shell script, Docker</td>
 	</tr>
 	<tr>
-		<td>Continuous Integration (CI), Continuous Delivery/Deployment (CD) <img
-				src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-			<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40"
-				height="40" />
-		</td>
-		<td>iOS (Swift, Objective-C) <img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg"
-				alt="swift" width="40" height="40" /> <img
-				src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec"
-				width="40" height="40" />
-		</td>
+		<td>Continuous Integration (CI), Continuous Delivery/Deployment (CD)</td>
+		<td>YAML, XML</td>
 	</tr>
 	<tr>
-		<td>Node.js (JavaScript) <img
-				src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40"
-				height="40" />
-		</td>
-		<td>Web (HTML, CSS) <img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-				alt="html5" width="40" height="40" />
-			<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-				alt="css3" width="40" height="40" />
-		</td>
+		<td>MS Office, iWork, Atlassian (Confluence, JIRA), Slack, MS Teams</td>
+		<td>Node.js (JavaScript), TypeScript</td>
 	</tr>
 	<tr>
-		<td>Design (Photoshop, xd) <img
-				src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-				alt="photoshop" width="40" height="40" /> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-				alt="xd" width="40" height="40" />
-		</td>
-		<td>YAML</td>
+		<td>Automation Testing (Selenium WebDriver, Playwright, CucumberJS)</td>
+		<td>Web (HTML, CSS)</td>
 	</tr>
 </table>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/akarshseggemu" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="akarshseggemu" height="30" width="40" /></a>
 </p>
