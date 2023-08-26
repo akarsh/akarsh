@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Akarsh Seggemu</h1>
-<h3 align="left">A passionate commercial software engineering team lead</h3>
+<h3 align="left">A passionate IT Team Lead specializing in commercial software engineering</h3>
 
 - 🔭 I’m writing articles, tutorials in [https://medium.com/@akarshseggemu](https://medium.com/@akarshseggemu)
 
