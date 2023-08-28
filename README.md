@@ -12,7 +12,7 @@
     - [akarsh-tenjin](https://github.com/akarsh-tenjin) from 2021 till 2022
     - [aseggemu-yoc](https://github.com/aseggemu-yoc) from 2022 till today
   
-   **Disclaimer**: The below GitHub accounts are listed here for contribution stats only.
+   **Disclaimer**: The above GitHub accounts are listed here for contribution stats only.
 
 
 <h3 align="left">Languages and Tools:</h3>
