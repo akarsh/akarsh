@@ -50,4 +50,4 @@
 <h3 align="left">Support:</h3>
 
 <p><a href="https://www.buymeacoffee.com/akarshseggemu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akarshseggemu" /></a></p>
-<p align="left"><img src="https://user-images.githubusercontent.com/845598/236625037-59627ee6-5e22-4893-9292-1c20aa4de5a3.png" height="55" width="55" /></p>
+<p align="left"><a href="https://www.buymeacoffee.com/akarshseggemu"> <img src="https://user-images.githubusercontent.com/845598/236625037-59627ee6-5e22-4893-9292-1c20aa4de5a3.png" height="55" width="55" /></a></p>
