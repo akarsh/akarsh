@@ -14,31 +14,18 @@
   
    **Disclaimer**: The above GitHub accounts are listed here for contribution stats only.
 
-
 <h3 align="left">Languages and Tools:</h3>
 
-<table>
-	<tr>
-		<td>Android (Java, Kotlin), iOS (Swift, Objective-C), Unity (C#)</td>
-		<td>Design (Photoshop, xd)</td>
-	</tr>
-	<tr>
-		<td>Public Cloud (Google Cloud Platform), Kubernetes, Helm</td>
-  		<td> Shell script, Docker</td>
-	</tr>
-	<tr>
-		<td>Continuous Integration (CI), Continuous Delivery/Deployment (CD)</td>
-		<td>YAML, XML</td>
-	</tr>
-	<tr>
-		<td>MS Office, iWork, Atlassian (Confluence, JIRA), Slack, MS Teams</td>
-		<td>Node.js (JavaScript), TypeScript</td>
-	</tr>
-	<tr>
-		<td>Automation Testing (Selenium WebDriver, Playwright, CucumberJS)</td>
-		<td>Web (HTML, CSS)</td>
-	</tr>
-</table>
+- Android (Java, Kotlin), iOS (Swift, Objective-C), Unity (C#)
+- Continuous Integration (CI), Continuous Delivery/Deployment (CD)
+- MS Office, iWork, Atlassian (Confluence, JIRA), Slack, MS Teams
+- Automation Testing (Selenium WebDriver, Playwright, CucumberJS)
+- Public Cloud (Google Cloud Platform), Kubernetes, Helm
+- Node.js (JavaScript), TypeScript
+- Design (Photoshop, xd)
+- Shell script, Docker
+- Web (HTML, CSS)
+- YAML, XML
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
