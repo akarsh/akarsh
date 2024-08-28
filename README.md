@@ -3,7 +3,7 @@
 
 - 🔭 I’m writing articles, tutorials in [Medium](https://medium.com/@akarshseggemu)
 
-- 👨‍💻 Check out my [portfolio|(https://akarsh.github.io)
+- 👨‍💻 Check out my [portfolio](https://akarsh.github.io)
 
 - 💼 Commercial Contributions:
 
