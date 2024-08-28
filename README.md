@@ -1,31 +1,22 @@
-<h1 align="left">Hi 👋, I'm Akarsh Seggemu</h1>
-<h3 align="left">A passionate IT Team Lead specializing in commercial software engineering</h3>
+<h2 align="left">Hi 👋, I'm Akarsh Seggemu</h2>
+<h4 align="left">A passionate IT Team Lead specializing in commercial software engineering</h4>
 
-- 🔭 I’m writing articles, tutorials in [https://medium.com/@akarshseggemu](https://medium.com/@akarshseggemu)
+- 🔭 I’m writing articles, tutorials in [Medium](https://medium.com/@akarshseggemu)
 
-- 👨‍💻 Portfolio in [https://akarsh.github.io](https://akarsh.github.io)
+- 👨‍💻 Check out my [portfolio|(https://akarsh.github.io)
 
-- 💼 Employment GitHub accounts used by me to contribute towards developing and creating commericial softwares,
+- 💼 Commercial Contributions:
 
-    - [sagitpanda](https://github.com/sagitpanda) from 2014 till 2015
-    - [aseggemu-fyber](https://github.com/aseggemu-fyber) from 2015 till 2021
-    - [akarsh-tenjin](https://github.com/akarsh-tenjin) from 2021 till 2022
-    - [aseggemu-yoc](https://github.com/aseggemu-yoc) from 2022 till today
-  
-   **Disclaimer**: The above GitHub accounts are listed here for contribution stats only.
+    - [PricePanda](https://github.com/sagitpanda) (2014–2015)
+    - [Fyber](https://github.com/aseggemu-fyber) (2015–2021)
+    - [Tenjin](https://github.com/akarsh-tenjin) (2021–2022)
+    - [YOC](https://github.com/aseggemu-yoc) (2022–present)
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Tech Stack:</h4>
 
-- Android (Java, Kotlin), iOS (Swift, Objective-C), Unity (C#)
-- Continuous Integration (CI), Continuous Delivery/Deployment (CD)
-- MS Office, iWork, Atlassian (Confluence, JIRA), Slack, MS Teams
-- Automation Testing (Selenium WebDriver, Playwright, CucumberJS)
-- Public Cloud (Google Cloud Platform), Kubernetes, Helm
-- Node.js (JavaScript), TypeScript
-- Design (Photoshop, xd)
-- Shell script, Docker
-- Web (HTML, CSS)
-- YAML, XML
+- Mobile: Android (Java/Kotlin), iOS (Swift/Obj-C), Unity (C#)
+- CI/CD: Jenkins, Docker, Kubernetes
+- Web & Scripting: Node.js, TypeScript, HTML, CSS, Shell
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
