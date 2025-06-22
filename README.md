@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋, I'm Akarsh Seggemu</h2>
-<h4 align="left">A passionate IT Team Lead specializing in commercial software engineering</h4>
+
+[![Sponsor](https://img.shields.io/badge/Sponsor%20me-GitHub-orange?logo=github)](https://github.com/sponsors/akarsh)
+
+<h4 align="left">Leading teams in commercial software engineering with a strong commitment to open source innovation</h4>
 
 - 🔭 I’m writing articles, tutorials in [Medium](https://medium.com/@akarshseggemu)
 
@@ -29,3 +32,4 @@
 
 <p><a href="https://www.buymeacoffee.com/akarshseggemu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akarshseggemu" /></a></p>
 <p align="left"><a href="https://www.buymeacoffee.com/akarshseggemu"> <img src="https://user-images.githubusercontent.com/845598/236625037-59627ee6-5e22-4893-9292-1c20aa4de5a3.png" height="55" width="55" /></a></p>
+
